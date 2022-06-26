@@ -4,7 +4,7 @@ React Konva is a JavaScript library for drawing complex canvas graphics using [R
 
 # picture Demo
 
-![Demo](./lion.png)
+![Demo](./img_1.png)
 
 **How to draw images on canvas with React?**
 [Documentation](https://konvajs.org/docs/react/Images.html)
